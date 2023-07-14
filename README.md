@@ -1,3 +1,6 @@
+# Luk-det:
+This directory contains the implimentation of a web-app that we made which is capable of image classifiaction of Lukemia-cells using ResNet-50
+
 # CNN+SVM:
 The notebook named CNN+SVM contains an implementation of a CNN model that utilizes categorical_hinge_loss for image classification. Due to the usage of categorical_hinge_loss, the last layers of the CNN acts as an SVM. To check the performance of this model, we conducted a few experiments, the report for which is provided as CNN+SVM.pdf. 
 
